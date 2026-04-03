@@ -20,7 +20,7 @@ import SoftwareDeveloper from 'India';
 class Bio extends SoftwareDeveloper {
   name     = 'Muskan Kumari';
   title    = 'React Developer' || 'Full Stack Web Developer';
-  location = 'Bhagalpur, Bihar, India';
+  location = 'Godda Jharkhand India';
   availability = "Available to hire!!"
 }
 class Skills extends SoftwareDeveloper {
